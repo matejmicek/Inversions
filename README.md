@@ -1,4 +1,4 @@
-# Inversions
+# Inversions - school assignment
 
 You are given a permutation P1 ... PN of numbers from the set {0, ..., N-1}. The pair of numbers Pi a Pj are an inversion if i < j while Pi > Pj. So an inversion is a disturbance in the order of a sorted ascending sequence. Your task is to determine how many inversions a given sequence contains.
 
